@@ -8,7 +8,7 @@ This directory includes 2 jupyter notebook and pre-trained models for Google Sum
 2. the pretrained model: [transit_classification.keras](transit_classification.keras)
 
 **Exoplanet Atmosphere Characterization**
-1. [hanzhi_tan_GSoC_exoplanet_transmission_spectra.ipynb](hanzhi_tan_GSoC_exoplanet_transmission_spectra.ipynb)
+1. hanzhi_tan_GSoC_exoplanet_transmission_spectra.ipynb
 2. the pretrained model: [h20_prediction_model.keras](h20_prediction_model.keras)
 
 **Training Data**
