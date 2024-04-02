@@ -4,7 +4,7 @@ This directory includes 2 jupyter notebook and pre-trained models for Google Sum
 
 
 **Regression on Planetary Mass in Protoplanetary Disks**
-1. [hanzhi_tan_GSoC_transit_simulation.ipynb](hanzhi_tan_GSoC_transit_simulation.ipynb)
+1. hanzhi_tan_GSoC_transit_simulation.ipynb
 2. the pretrained model: [transit_classification.keras](transit_classification.keras)
 
 **Exoplanet Atmosphere Characterization**
