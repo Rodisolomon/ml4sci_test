@@ -13,4 +13,4 @@ This directory includes 2 jupyter notebook and pre-trained models for Google Sum
 
 **Training Data**
 
-Please refer to this [google drive link](https://drive.google.com/drive/folders/1Xn1NbH3N5srCNJ64M-VYx1VPpm_6ZoA7?usp=sharing) for the training data for both tests.
+Please refer to this [google drive link](https://drive.google.com/drive/folders/1Xn1NbH3N5srCNJ64M-VYx1VPpm_6ZoA7?usp=sharing) for the training data for both tests, please note that p_r.npy contains exoplanet period - radius simulation, and is used by both scripts (that's why it's in the main directory.)
